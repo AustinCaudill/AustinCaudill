@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @AustinCaudill
-- 👀 I’m interested in fueling the world's insatiable demand for energy!
-- 🌱 I’m currently learning the most efficient and economical methods of producing hydrocarbons.
-- 📫 How to reach me: Check out my personal website https://thepetroguy.com for the latest means of contacting me.
+<h1 align="center">Hi 👋, I'm Austin Caudill</h1>
+<h3 align="center">A Petroleum Engineer passionate about fueling the world's insatiable demand for energy.</h3>
 
+- 🌱 I’m currently learning **Python**
+
+- 📝 I regularly write articles on [https://www.thepetroguy.com](https://www.thepetroguy.com)
+
+- 📫 How to reach me **austinbcaudill@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/austincaudill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="austincaudill" height="30" width="40" /></a>
+<a href="/https://www.thepetroguy.com/blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.thepetroguy.com/blog/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=austincaudill&label=Profile%20views&color=0e75b6&style=flat" alt="austincaudill" /> </p>
 <!---
 AustinCaudill/AustinCaudill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
