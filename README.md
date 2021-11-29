@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Austin Caudill (aka ThePetroGuy)</h1>
-<h3 align="center">A Petroleum Engineer passionate about fueling the world's insatiable demand for energy.</h3>
+<h3 align="center">
+🛢️
+A Petroleum Engineer passionate about fueling the world's insatiable demand for energy.
+🛢️
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=austincaudill&label=Profile%20views&color=0e75b6&style=flat" alt="austincaudill" /> </p>
 
