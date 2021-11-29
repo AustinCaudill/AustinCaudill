@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=austincaudill&label=Profile%20views&color=0e75b6&style=flat" alt="austincaudill" /> </p>
 
-- 🌱 I’m currently learning **Data Science with Python, Machine Learning, and Deep Learning.**
+- 🌱 I’m currently learning **Data Science with Python, Machine Learning, and Automation.**
 
 - 👨‍💻 All of my projects are available at [https://www.thepetroguy.com/data-science/](https://www.thepetroguy.com/data-science/)
 
